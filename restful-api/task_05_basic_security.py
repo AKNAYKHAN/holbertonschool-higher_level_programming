@@ -1,5 +1,4 @@
 #!/usr/bin/py
-thon3
 """API Security with Basic Auth and JWT."""
 
 from flask import Flask, jsonify, request
